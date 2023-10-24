@@ -1,0 +1,37 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.wikidoc
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.dox
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig-usage.dox
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/libpid_attitude_controller_lib.so
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/mav_lowlevel_attitude_controller.pc
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/PIDAttitudeConfig.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/mav_lowlevel_attitude_controller/mav_pid_attitude_controller_node
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_lowlevel_attitude_controller/PIDAttitudeConfig.h
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig.cmake, /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.wikidoc, /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.wikidoc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.dox, /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.dox)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig-usage.dox, /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig-usage.dox)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/lib/libpid_attitude_controller_lib.so, /home/dronesteam/ws_caric/devel/lib/libpid_attitude_controller_lib.so)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/lib/pkgconfig/mav_lowlevel_attitude_controller.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_lowlevel_attitude_controller.pc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/lib/python3/dist-packages/mav_lowlevel_attitude_controller/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/PIDAttitudeConfig.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/PIDAttitudeConfig.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/lib/mav_lowlevel_attitude_controller/mav_pid_attitude_controller_node, /home/dronesteam/ws_caric/devel/lib/mav_lowlevel_attitude_controller/mav_pid_attitude_controller_node)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_lowlevel_attitude_controller/include/mav_lowlevel_attitude_controller/PIDAttitudeConfig.h, /home/dronesteam/ws_caric/devel/include/mav_lowlevel_attitude_controller/PIDAttitudeConfig.h)
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/cmake/mav_lowlevel_attitude_controllerConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.wikidoc
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig.dox
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_lowlevel_attitude_controller/docs/PIDAttitudeConfig-usage.dox
+Unlinking: /home/dronesteam/ws_caric/devel/lib/libpid_attitude_controller_lib.so
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_lowlevel_attitude_controller.pc
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/PIDAttitudeConfig.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/mav_lowlevel_attitude_controller/mav_pid_attitude_controller_node
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_lowlevel_attitude_controller/PIDAttitudeConfig.h

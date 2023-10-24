@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake

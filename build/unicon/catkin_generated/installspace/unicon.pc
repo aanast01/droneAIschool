@@ -1,0 +1,8 @@
+prefix=/home/dronesteam/ws_droneSchool/install
+
+Name: unicon
+Description: Description of unicon
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

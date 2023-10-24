@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/dronesteam/ws_droneSchool/devel/.private/rotors_control/lib;/opt/ros/noetic/lib")

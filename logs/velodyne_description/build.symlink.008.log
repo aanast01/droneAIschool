@@ -1,0 +1,10 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/velodyne_description/cmake/velodyne_descriptionConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/velodyne_description.pc
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_description/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_description/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_description/share/velodyne_description/cmake/velodyne_descriptionConfig.cmake, /home/dronesteam/ws_caric/devel/share/velodyne_description/cmake/velodyne_descriptionConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_description/lib/pkgconfig/velodyne_description.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/velodyne_description.pc)
+Unlinking: /home/dronesteam/ws_caric/devel/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/velodyne_description/cmake/velodyne_descriptionConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/velodyne_description.pc

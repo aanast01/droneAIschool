@@ -1,0 +1,6 @@
+rotors_simulator/catkin_simple
+/home/dronesteam/ws_droneSchool/devel/.private/catkin_simple/cmake.lock /home/dronesteam/ws_droneSchool/devel/./cmake.lock
+/home/dronesteam/ws_droneSchool/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig.cmake /home/dronesteam/ws_droneSchool/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
+/home/dronesteam/ws_droneSchool/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake /home/dronesteam/ws_droneSchool/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
+/home/dronesteam/ws_droneSchool/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake /home/dronesteam/ws_droneSchool/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake
+/home/dronesteam/ws_droneSchool/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/catkin_simple.pc

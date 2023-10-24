@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/traj_gennav/share/common-lisp/ros/traj_gennav/srv/_package.lisp

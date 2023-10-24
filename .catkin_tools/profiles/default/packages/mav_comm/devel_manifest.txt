@@ -1,0 +1,2 @@
+rotors_simulator/mav_comm/mav_comm
+/home/dronesteam/ws_droneSchool/devel/.private/mav_comm/cmake.lock /home/dronesteam/ws_droneSchool/devel/./cmake.lock

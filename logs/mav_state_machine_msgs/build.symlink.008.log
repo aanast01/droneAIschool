@@ -1,0 +1,91 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/_package.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/_package_RunTaskService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/mav_state_machine_msgs-srv.asd
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/RunTaskService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/StartStopTask.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/_package.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/mav_state_machine_msgs-msg.asd
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/_package_StartStopTask.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-paths.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-extras.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_state_machine_msgs/manifest.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_state_machine_msgs/srv/RunTaskService.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_state_machine_msgs/msg/StartStopTask.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_state_machine_msgs/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_state_machine_msgs/srv/RunTaskService.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_state_machine_msgs/srv/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_state_machine_msgs/msg/StartStopTask.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_state_machine_msgs/msg/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/mav_state_machine_msgs.pc
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_state_machine_msgs/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_state_machine_msgs/srv/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_state_machine_msgs/srv/_RunTaskService.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_state_machine_msgs/msg/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_state_machine_msgs/msg/_StartStopTask.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_state_machine_msgs/StartStopTask.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_state_machine_msgs/RunTaskServiceRequest.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_state_machine_msgs/RunTaskService.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_state_machine_msgs/RunTaskServiceResponse.h
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/srv/_package.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/_package.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/srv/_package_RunTaskService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/_package_RunTaskService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/srv/mav_state_machine_msgs-srv.asd, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/mav_state_machine_msgs-srv.asd)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/srv/RunTaskService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/RunTaskService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/msg/StartStopTask.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/StartStopTask.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/msg/_package.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/_package.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/msg/mav_state_machine_msgs-msg.asd, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/mav_state_machine_msgs-msg.asd)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/common-lisp/ros/mav_state_machine_msgs/msg/_package_StartStopTask.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/_package_StartStopTask.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig.cmake, /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-paths.cmake, /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-paths.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-extras.cmake, /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-extras.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/roseus/ros/mav_state_machine_msgs/manifest.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_state_machine_msgs/manifest.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/roseus/ros/mav_state_machine_msgs/srv/RunTaskService.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_state_machine_msgs/srv/RunTaskService.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/roseus/ros/mav_state_machine_msgs/msg/StartStopTask.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_state_machine_msgs/msg/StartStopTask.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/gennodejs/ros/mav_state_machine_msgs/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/gennodejs/ros/mav_state_machine_msgs/srv/RunTaskService.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/srv/RunTaskService.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/gennodejs/ros/mav_state_machine_msgs/srv/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/srv/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/gennodejs/ros/mav_state_machine_msgs/msg/StartStopTask.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/msg/StartStopTask.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/share/gennodejs/ros/mav_state_machine_msgs/msg/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/msg/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/lib/pkgconfig/mav_state_machine_msgs.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_state_machine_msgs.pc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/lib/python3/dist-packages/mav_state_machine_msgs/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/lib/python3/dist-packages/mav_state_machine_msgs/srv/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/srv/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/lib/python3/dist-packages/mav_state_machine_msgs/srv/_RunTaskService.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/srv/_RunTaskService.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/lib/python3/dist-packages/mav_state_machine_msgs/msg/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/msg/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/lib/python3/dist-packages/mav_state_machine_msgs/msg/_StartStopTask.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/msg/_StartStopTask.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/include/mav_state_machine_msgs/StartStopTask.h, /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/StartStopTask.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/include/mav_state_machine_msgs/RunTaskServiceRequest.h, /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/RunTaskServiceRequest.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/include/mav_state_machine_msgs/RunTaskService.h, /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/RunTaskService.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_state_machine_msgs/include/mav_state_machine_msgs/RunTaskServiceResponse.h, /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/RunTaskServiceResponse.h)
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/_package.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/_package_RunTaskService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/mav_state_machine_msgs-srv.asd
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/srv/RunTaskService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/StartStopTask.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/_package.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/mav_state_machine_msgs-msg.asd
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_state_machine_msgs/msg/_package_StartStopTask.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgsConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-paths.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_state_machine_msgs/cmake/mav_state_machine_msgs-msg-extras.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_state_machine_msgs/manifest.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_state_machine_msgs/srv/RunTaskService.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_state_machine_msgs/msg/StartStopTask.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/srv/RunTaskService.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/srv/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/msg/StartStopTask.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_state_machine_msgs/msg/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_state_machine_msgs.pc
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/srv/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/srv/_RunTaskService.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/msg/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_state_machine_msgs/msg/_StartStopTask.py
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/StartStopTask.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/RunTaskServiceRequest.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/RunTaskService.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_state_machine_msgs/RunTaskServiceResponse.h

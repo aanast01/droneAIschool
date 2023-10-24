@@ -1,0 +1,19 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/rotors_gazebo/waypoint_publisher_file
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/rotors_gazebo/hovering_example
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/rotors_gazebo/waypoint_publisher
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/rotors_gazebo.pc
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_gazebo/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake, /home/dronesteam/ws_caric/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file, /home/dronesteam/ws_caric/devel/lib/rotors_gazebo/waypoint_publisher_file)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example, /home/dronesteam/ws_caric/devel/lib/rotors_gazebo/hovering_example)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher, /home/dronesteam/ws_caric/devel/lib/rotors_gazebo/waypoint_publisher)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_gazebo.pc)
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/rotors_gazebo/waypoint_publisher_file
+Unlinking: /home/dronesteam/ws_caric/devel/lib/rotors_gazebo/hovering_example
+Unlinking: /home/dronesteam/ws_caric/devel/lib/rotors_gazebo/waypoint_publisher
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_gazebo.pc

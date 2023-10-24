@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/drone_school/lib/python3/dist-packages/drone_school/srv/__init__.py

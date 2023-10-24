@@ -1,0 +1,73 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_system_msgs/msg/_package_CpuInfo.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_system_msgs/msg/mav_system_msgs-msg.asd
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_system_msgs/msg/_package.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_system_msgs/msg/_package_ProcessInfo.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_system_msgs/msg/ProcessInfo.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_system_msgs/msg/CpuInfo.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_system_msgs/cmake/mav_system_msgs-msg-extras.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_system_msgs/cmake/mav_system_msgsConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_system_msgs/cmake/mav_system_msgs-msg-paths.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_system_msgs/cmake/mav_system_msgsConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_system_msgs/manifest.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_system_msgs/msg/ProcessInfo.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_system_msgs/msg/CpuInfo.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_system_msgs/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_system_msgs/msg/ProcessInfo.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_system_msgs/msg/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_system_msgs/msg/CpuInfo.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/mav_system_msgs.pc
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_system_msgs/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_system_msgs/msg/_CpuInfo.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_system_msgs/msg/_ProcessInfo.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_system_msgs/msg/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_system_msgs/ProcessInfo.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_system_msgs/CpuInfo.h
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/common-lisp/ros/mav_system_msgs/msg/_package_CpuInfo.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/_package_CpuInfo.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/common-lisp/ros/mav_system_msgs/msg/mav_system_msgs-msg.asd, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/mav_system_msgs-msg.asd)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/common-lisp/ros/mav_system_msgs/msg/_package.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/_package.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/common-lisp/ros/mav_system_msgs/msg/_package_ProcessInfo.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/_package_ProcessInfo.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/common-lisp/ros/mav_system_msgs/msg/ProcessInfo.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/ProcessInfo.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/common-lisp/ros/mav_system_msgs/msg/CpuInfo.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/CpuInfo.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/mav_system_msgs/cmake/mav_system_msgs-msg-extras.cmake, /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgs-msg-extras.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/mav_system_msgs/cmake/mav_system_msgsConfig.cmake, /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgsConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/mav_system_msgs/cmake/mav_system_msgs-msg-paths.cmake, /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgs-msg-paths.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/mav_system_msgs/cmake/mav_system_msgsConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgsConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/roseus/ros/mav_system_msgs/manifest.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_system_msgs/manifest.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/roseus/ros/mav_system_msgs/msg/ProcessInfo.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_system_msgs/msg/ProcessInfo.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/roseus/ros/mav_system_msgs/msg/CpuInfo.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_system_msgs/msg/CpuInfo.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/gennodejs/ros/mav_system_msgs/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/gennodejs/ros/mav_system_msgs/msg/ProcessInfo.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/msg/ProcessInfo.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/gennodejs/ros/mav_system_msgs/msg/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/msg/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/share/gennodejs/ros/mav_system_msgs/msg/CpuInfo.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/msg/CpuInfo.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/lib/pkgconfig/mav_system_msgs.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_system_msgs.pc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/lib/python3/dist-packages/mav_system_msgs/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/lib/python3/dist-packages/mav_system_msgs/msg/_CpuInfo.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/msg/_CpuInfo.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/lib/python3/dist-packages/mav_system_msgs/msg/_ProcessInfo.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/msg/_ProcessInfo.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/lib/python3/dist-packages/mav_system_msgs/msg/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/msg/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/include/mav_system_msgs/ProcessInfo.h, /home/dronesteam/ws_caric/devel/include/mav_system_msgs/ProcessInfo.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_system_msgs/include/mav_system_msgs/CpuInfo.h, /home/dronesteam/ws_caric/devel/include/mav_system_msgs/CpuInfo.h)
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/_package_CpuInfo.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/mav_system_msgs-msg.asd
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/_package.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/_package_ProcessInfo.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/ProcessInfo.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_system_msgs/msg/CpuInfo.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgs-msg-extras.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgsConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgs-msg-paths.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_system_msgs/cmake/mav_system_msgsConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_system_msgs/manifest.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_system_msgs/msg/ProcessInfo.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_system_msgs/msg/CpuInfo.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/msg/ProcessInfo.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/msg/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_system_msgs/msg/CpuInfo.js
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_system_msgs.pc
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/msg/_CpuInfo.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/msg/_ProcessInfo.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_system_msgs/msg/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_system_msgs/ProcessInfo.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_system_msgs/CpuInfo.h

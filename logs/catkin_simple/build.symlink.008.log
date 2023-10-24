@@ -1,0 +1,13 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/catkin_simple.pc
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/catkin_simple/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig.cmake, /home/dronesteam/ws_caric/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake, /home/dronesteam/ws_caric/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/catkin_simple.pc)
+Unlinking: /home/dronesteam/ws_caric/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/catkin_simple.pc

@@ -1,0 +1,10 @@
+(cl:defpackage drone_school-srv
+  (:use )
+  (:export
+   "CREATEPPCOMTOPIC"
+   "<CREATEPPCOMTOPIC-REQUEST>"
+   "CREATEPPCOMTOPIC-REQUEST"
+   "<CREATEPPCOMTOPIC-RESPONSE>"
+   "CREATEPPCOMTOPIC-RESPONSE"
+  ))
+

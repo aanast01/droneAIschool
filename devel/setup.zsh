@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/catkin_tools_prebuild/setup.zsh

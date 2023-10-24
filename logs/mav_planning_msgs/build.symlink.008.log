@@ -1,0 +1,283 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/ChangeNameService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_ChangeNameService.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/manifest.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/srv/ChangeNameService.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/Point2D.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/srv/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/srv/ChangeNameService.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/mav_planning_msgs.pc
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/srv/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_PolygonService.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_ChangeNameService.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_PlannerService.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_Polygon2D.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_Point2D.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/ChangeNameServiceRequest.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PlannerService.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PlannerServiceResponse.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/ChangeNameService.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolygonServiceRequest.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolynomialTrajectory4D.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/ChangeNameServiceResponse.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolygonServiceResponse.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolynomialSegment.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolynomialSegment4D.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PointCloudWithPose.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolynomialTrajectory.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolygonWithHoles.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PolygonService.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/Point2D.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/Polygon2D.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_planning_msgs/PlannerServiceRequest.h
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/ChangeNameService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/ChangeNameService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/srv/_package_ChangeNameService.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_ChangeNameService.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/manifest.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/manifest.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/srv/ChangeNameService.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/srv/ChangeNameService.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/Point2D.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/Point2D.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/srv/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/srv/ChangeNameService.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/ChangeNameService.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake, /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake, /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake, /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/pkgconfig/mav_planning_msgs.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_planning_msgs.pc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/srv/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/srv/_PolygonService.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_PolygonService.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/srv/_ChangeNameService.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_ChangeNameService.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/srv/_PlannerService.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_PlannerService.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_Polygon2D.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_Polygon2D.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_Point2D.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_Point2D.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonWithHolesStamped.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/ChangeNameServiceRequest.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/ChangeNameServiceRequest.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PlannerService.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PlannerService.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PlannerServiceResponse.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PlannerServiceResponse.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/ChangeNameService.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/ChangeNameService.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonServiceRequest.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonServiceRequest.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolynomialTrajectory4D.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialTrajectory4D.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/ChangeNameServiceResponse.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/ChangeNameServiceResponse.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonServiceResponse.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonServiceResponse.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolynomialSegment.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialSegment.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolynomialSegment4D.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialSegment4D.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PointCloudWithPose.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PointCloudWithPose.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolynomialTrajectory.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialTrajectory.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonWithHoles.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonWithHoles.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PolygonService.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonService.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/Point2D.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/Point2D.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/Polygon2D.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/Polygon2D.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_planning_msgs/include/mav_planning_msgs/PlannerServiceRequest.h, /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PlannerServiceRequest.h)
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/PolygonService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PlannerService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/ChangeNameService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_PolygonService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/mav_planning_msgs-srv.asd
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/PlannerService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/srv/_package_ChangeNameService.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Point2D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/mav_planning_msgs-msg.asd
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHolesStamped.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_Polygon2D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialTrajectory.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/Point2D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolygonWithHoles.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHoles.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolynomialSegment4D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PointCloudWithPose.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialTrajectory4D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment4D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/_package_PolynomialSegment.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/PointCloudWithPose.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_planning_msgs/msg/Polygon2D.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/manifest.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/srv/PlannerService.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/srv/PolygonService.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/srv/ChangeNameService.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PointCloudWithPose.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHoles.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment4D.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/Polygon2D.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/Point2D.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_planning_msgs/msg/PolynomialSegment.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/ChangeNameService.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/PlannerService.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/srv/PolygonService.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/Polygon2D.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialSegment4D.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolygonWithHoles.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PolynomialTrajectory4D.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/PointCloudWithPose.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_planning_msgs/msg/Point2D.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-extras.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgs-msg-paths.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_planning_msgs/cmake/mav_planning_msgsConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_planning_msgs.pc
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_PolygonService.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_ChangeNameService.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/srv/_PlannerService.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_Polygon2D.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PointCloudWithPose.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment4D.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_Point2D.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHoles.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialTrajectory4D.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolynomialSegment.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_planning_msgs/msg/_PolygonWithHolesStamped.py
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonWithHolesStamped.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/ChangeNameServiceRequest.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PlannerService.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PlannerServiceResponse.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/ChangeNameService.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonServiceRequest.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialTrajectory4D.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/ChangeNameServiceResponse.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonServiceResponse.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialSegment.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialSegment4D.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PointCloudWithPose.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolynomialTrajectory.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonWithHoles.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PolygonService.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/Point2D.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/Polygon2D.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_planning_msgs/PlannerServiceRequest.h

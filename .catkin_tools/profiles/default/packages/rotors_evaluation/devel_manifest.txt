@@ -1,0 +1,10 @@
+rotors_simulator/rotors_evaluation
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/cmake.lock /home/dronesteam/ws_droneSchool/devel/./cmake.lock
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/share/rotors_evaluation/cmake/rotors_evaluationConfig-version.cmake /home/dronesteam/ws_droneSchool/devel/share/rotors_evaluation/cmake/rotors_evaluationConfig-version.cmake
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/share/rotors_evaluation/cmake/rotors_evaluationConfig.cmake /home/dronesteam/ws_droneSchool/devel/share/rotors_evaluation/cmake/rotors_evaluationConfig.cmake
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/lib/pkgconfig/rotors_evaluation.pc /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/rotors_evaluation.pc
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/lib/python3/dist-packages/rosbag_tools/__init__.py /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/rosbag_tools/__init__.py
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/lib/rotors_evaluation/waypoints_eval.py /home/dronesteam/ws_droneSchool/devel/lib/rotors_evaluation/waypoints_eval.py
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/lib/rotors_evaluation/disturbance_eval.py /home/dronesteam/ws_droneSchool/devel/lib/rotors_evaluation/disturbance_eval.py
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/lib/rotors_evaluation/hovering_eval.py /home/dronesteam/ws_droneSchool/devel/lib/rotors_evaluation/hovering_eval.py
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_evaluation/lib/rotors_evaluation/cmake.lock /home/dronesteam/ws_droneSchool/devel/lib/rotors_evaluation/cmake.lock

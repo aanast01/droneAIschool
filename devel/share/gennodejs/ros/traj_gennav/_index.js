@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/traj_gennav/share/gennodejs/ros/traj_gennav/_index.js

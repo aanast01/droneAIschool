@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/traj_gennav/share/roseus/ros/traj_gennav/srv/ExecutePath.l

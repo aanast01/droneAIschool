@@ -1,0 +1,10 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_description/cmake/rotors_descriptionConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/rotors_description.pc
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_description/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig.cmake, /home/dronesteam/ws_caric/devel/share/rotors_description/cmake/rotors_descriptionConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_description/lib/pkgconfig/rotors_description.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_description.pc)
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_description/cmake/rotors_descriptionConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_description.pc

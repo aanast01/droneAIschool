@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/unicon/share/roseus/ros/unicon/manifest.l

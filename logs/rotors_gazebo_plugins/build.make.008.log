@@ -1,0 +1,952 @@
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target mav_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target gazebo_plugins_gencfg[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target gazebo_plugins_gencfg
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rotors_comm_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target gazebo_msgs_generate_messages_py
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_nodejs[0m
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target rotors_comm_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rotors_comm_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target rotors_comm_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[  0%] Built target nodelet_topic_tools_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target octomap_msgs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_py[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_cpp[0m
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_lisp[0m
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target octomap_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rotors_comm_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[  0%] Built target octomap_msgs_generate_messages_cpp
+[  0%] Built target octomap_msgs_generate_messages_lisp
+[  0%] Built target octomap_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[  0%] Built target rotors_comm_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rotors_comm_generate_messages_eus[0m
+[  0%] Built target topic_tools_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target rotors_comm_generate_messages_eus
+[35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  1%] Built target pcl_msgs_generate_messages_eus
+[  1%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/WrenchStamped.proto[0m
+[35m[1mScanning dependencies of target rotors_comm_generate_messages_py[0m
+[  1%] Built target pcl_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  2%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Actuators.proto[0m
+[  3%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/CommandMotorSpeed.proto[0m
+[  4%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/ConnectGazeboToRosTopic.proto[0m
+[  5%] Built target pcl_ros_gencfg
+[  5%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/ConnectRosToGazeboTopic.proto[0m
+[  7%] Built target rotors_comm_generate_messages_py
+[  7%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/FluidPressure.proto[0m
+[  7%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Float32.proto[0m
+[  7%] Built target dynamic_reconfigure_generate_messages_py
+[ 10%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/JointState.proto[0m
+[ 10%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Header.proto[0m
+[ 10%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Imu.proto[0m
+[ 11%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Lidar.proto[0m
+[ 11%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/MagneticField.proto[0m
+[ 13%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/NavSatFix.proto[0m
+[ 14%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Odometry.proto[0m
+MagneticField.proto: warning: Import quaternion.proto but not used.
+[ 17%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Point.proto[0m
+[ 17%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/PointStamped.proto[0m
+[ 17%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/OpticalFlow.proto[0m
+[ 19%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/PoseStamped.proto[0m
+[ 19%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/PoseWithCovarianceStamped.proto[0m
+[ 20%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/PoseWithCovariance.proto[0m
+[ 21%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/RollPitchYawrateThrust.proto[0m
+[ 22%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/TransformStamped.proto[0m
+[ 23%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Transform.proto[0m
+[ 25%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Twist.proto[0m
+[ 26%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/TransformStampedWithFrameIds.proto[0m
+[ 27%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/TwistWithCovariance.proto[0m
+[ 28%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/TwistStamped.proto[0m
+[ 30%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Vector3dStamped.proto[0m
+[ 30%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/WindSpeed.proto[0m
+[ 31%] [34m[1mRunning cpp protocol buffer compiler on /home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/msgs/Wrench.proto[0m
+[35m[1mScanning dependencies of target mav_msgs[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/ConnectRosToGazeboTopic.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/ConnectGazeboToRosTopic.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Float32.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Header.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Imu.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/CommandMotorSpeed.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/JointState.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Lidar.pb.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Actuators.pb.cc.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/FluidPressure.pb.cc.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/MagneticField.pb.cc.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/NavSatFix.pb.cc.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Odometry.pb.cc.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/OpticalFlow.pb.cc.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Point.pb.cc.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/PointStamped.pb.cc.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/PoseStamped.pb.cc.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/PoseWithCovariance.pb.cc.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/PoseWithCovarianceStamped.pb.cc.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/RollPitchYawrateThrust.pb.cc.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Transform.pb.cc.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/TransformStamped.pb.cc.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/TransformStampedWithFrameIds.pb.cc.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Twist.pb.cc.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/TwistStamped.pb.cc.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/WrenchStamped.pb.cc.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/WindSpeed.pb.cc.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/TwistWithCovariance.pb.cc.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Vector3dStamped.pb.cc.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/Wrench.pb.cc.o[0m
+[ 63%] [32m[1mLinking CXX shared library libmav_msgs.so[0m
+[ 63%] Built target mav_msgs
+[35m[1mScanning dependencies of target rotors_gazebo_magnetometer_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_multirotor_base_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_octomap_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_ros_interface_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_pressure_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_motor_model[0m
+[35m[1mScanning dependencies of target rotors_gazebo_ppcom_plugin[0m
+[35m[1mScanning dependencies of target LiftDragPlugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_lidar_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_servo_model[0m
+[35m[1mScanning dependencies of target rotors_gazebo_bag_plugin[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/LiftDragPlugin.dir/src/liftdrag_plugin/liftdrag_plugin.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_pressure_plugin.dir/src/gazebo_pressure_plugin.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_magnetometer_plugin.dir/src/gazebo_magnetometer_plugin.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_multirotor_base_plugin.dir/src/gazebo_multirotor_base_plugin.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_octomap_plugin.dir/src/gazebo_octomap_plugin.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_ppcom_plugin.dir/src/gazebo_ppcom_plugin.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_servo_model.dir/src/gazebo_servo_model.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_bag_plugin.dir/src/gazebo_bag_plugin.cpp.o[0m
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:49:[m[K [01;35m[Kwarning: [m[K"RAD2DEG" redefined
+   49 | #define RAD2DEG(x) (x * 180.0 / M_PI)
+      | 
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:154:[m[K [01;36m[Knote: [m[Kthis is the location of the previous definition
+  154 | #define RAD2DEG(x) ((x)*57.29578)
+      | 
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:50:[m[K [01;35m[Kwarning: [m[K"DEG2RAD" redefined
+   50 | #define DEG2RAD(x) (x * M_PI / 180.0)
+      | 
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:150:[m[K [01;36m[Knote: [m[Kthis is the location of the previous definition
+  150 | #define DEG2RAD(x) ((x)*0.017453293)
+      | 
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:541:[m[K [01;35m[Kwarning: [m[Kignoring #pragma omp parallel [[01;35m[K-Wunknown-pragmas[m[K]
+  541 |                 #pragma omp parallel for num_threads(MAX_THREADS)
+      | 
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:856:[m[K [01;35m[Kwarning: [m[Kignoring #pragma omp parallel [[01;35m[K-Wunknown-pragmas[m[K]
+  856 |                 #pragma omp parallel for num_threads(MAX_THREADS)
+      | 
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:1054:[m[K [01;35m[Kwarning: [m[Kignoring #pragma omp parallel [[01;35m[K-Wunknown-pragmas[m[K]
+ 1054 |         #pragma omp parallel for num_threads(MAX_THREADS)
+      | 
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_magnetometer_plugin.cpp:18[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_magnetometer_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboMagnetometerPlugin::GazeboMagnetometerPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_magnetometer_plugin.h:94:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboMagnetometerPlugin::random_generator_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+   94 |   std::mt19937 [01;35m[Krandom_generator_[m[K;
+      |                [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_magnetometer_plugin.h:58:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboMagnetometerPlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+   58 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_magnetometer_plugin.cpp:26:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   26 | [01;35m[KGazeboMagnetometerPlugin[m[K::GazeboMagnetometerPlugin()
+      | [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_multirotor_base_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_multirotor_base_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboMultirotorBasePlugin::GazeboMultirotorBasePlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_multirotor_base_plugin.h:116:30:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboMultirotorBasePlugin::node_handle_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  116 |   gazebo::transport::NodePtr [01;35m[Knode_handle_[m[K;
+      |                              [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_multirotor_base_plugin.h:80:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboMultirotorBasePlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+   80 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_multirotor_base_plugin.h:52:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   52 |   [01;35m[KGazeboMultirotorBasePlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_multirotor_base_plugin.cpp:[m[K In member function ‘[01m[Kvirtual void gazebo::GazeboMultirotorBasePlugin::Load(gazebo::physics::ModelPtr, sdf::v9::ElementPtr)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_multirotor_base_plugin.cpp:78:13:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kconst size_type[m[K’ {aka ‘[01m[Kconst long unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+   78 |     if (pos != link_name.npos) {
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_octomap_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::OctomapFromGazeboWorld::CreateOctomap(const Request&)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_octomap_plugin.cpp:191:15:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kfar_away[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  191 |     const int [01;35m[Kfar_away[m[K = 100000;
+      |               [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:[m[K In constructor ‘[01m[Kgazebo::GazeboMotorModel::GazeboMotorModel()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:101:37:[m[K [01;35m[Kwarning: [m[Kbase ‘[01m[Kgazebo::ModelPlugin[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  101 |         pubs_and_subs_created_(false[01;35m[K)[m[K {}
+      |                                     [01;35m[K^[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:101:37:[m[K [01;35m[Kwarning: [m[K  base ‘[01m[KMotorModel[m[K’ [[01;35m[K-Wreorder[m[K]
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:75:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   75 |   [01;35m[KGazeboMotorModel[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:189:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboMotorModel::wind_speed_W_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  189 |   ignition::math::Vector3d [01;35m[Kwind_speed_W_[m[K;
+      |                            [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:116:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboMotorModel::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+  116 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:75:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   75 |   [01;35m[KGazeboMotorModel[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_pressure_plugin.cpp:18[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_pressure_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboPressurePlugin::GazeboPressurePlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_pressure_plugin.h:81:30:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboPressurePlugin::node_handle_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+   81 |   gazebo::transport::NodePtr [01;35m[Knode_handle_[m[K;
+      |                              [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_pressure_plugin.h:72:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboPressurePlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+   72 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_pressure_plugin.cpp:25:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   25 | [01;35m[KGazeboPressurePlugin[m[K::GazeboPressurePlugin()
+      | [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_bag_plugin.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboBagPlugin::GazeboBagPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:191:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboBagPlugin::motor_topic_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  191 |   std::string [01;35m[Kmotor_topic_[m[K;
+      |               [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:190:15:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::string gazebo::GazeboBagPlugin::wrench_topic_[m[K’ [[01;35m[K-Wreorder[m[K]
+  190 |   std::string [01;35m[Kwrench_topic_[m[K;
+      |               [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:68:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   68 |   [01;35m[KGazeboBagPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:190:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboBagPlugin::wrench_topic_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  190 |   std::string [01;35m[Kwrench_topic_[m[K;
+      |               [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:183:15:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::string gazebo::GazeboBagPlugin::external_force_topic_[m[K’ [[01;35m[K-Wreorder[m[K]
+  183 |   std::string [01;35m[Kexternal_force_topic_[m[K;
+      |               [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:68:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   68 |   [01;35m[KGazeboBagPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:208:20:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboBagPlugin::node_handle_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  208 |   ros::NodeHandle *[01;35m[Knode_handle_[m[K;
+      |                    [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:177:28:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kgazebo::physics::ContactManager* gazebo::GazeboBagPlugin::contact_mgr_[m[K’ [[01;35m[K-Wreorder[m[K]
+  177 |   physics::ContactManager *[01;35m[Kcontact_mgr_[m[K;
+      |                            [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:68:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   68 |   [01;35m[KGazeboBagPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_bag_plugin.cpp:[m[K In member function ‘[01m[Kvirtual void gazebo::GazeboBagPlugin::Load(gazebo::physics::ModelPtr, sdf::v9::ElementPtr)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_bag_plugin.cpp:122:13:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kconst size_type[m[K’ {aka ‘[01m[Kconst long unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  122 |     if (pos != link_name.npos) {
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_bag_plugin.cpp:139:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kzero[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  139 |     unsigned int [01;35m[Kzero[m[K = 0;
+      |                  [01;35m[K^~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_bag_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboBagPlugin::LogWrenches(gazebo::common::Time)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_bag_plugin.cpp:372:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kunsigned int[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  372 |   for (int i = 0; [01;35m[Ki < contact_mgr_->GetContactCount()[m[K; ++i) {
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboRosInterfacePlugin::RosActuatorsMsgCallback(const ActuatorsConstPtr&, gazebo::transport::PublisherPtr)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:947:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  947 |   for (int i = 0; [01;35m[Ki < ros_actuators_msg_ptr->angles.size()[m[K; i++) {
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:952:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  952 |   for (int i = 0; [01;35m[Ki < ros_actuators_msg_ptr->angular_velocities.size()[m[K; i++) {
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:957:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  957 |   for (int i = 0; [01;35m[Ki < ros_actuators_msg_ptr->normalized.size()[m[K; i++) {
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboRosInterfacePlugin::RosCommandMotorSpeedMsgCallback(const ActuatorsConstPtr&, gazebo::transport::PublisherPtr)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:973:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<double>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  973 |   for (int i = 0; [01;35m[Ki < ros_actuators_msg_ptr->angular_velocities.size()[m[K; i++) {
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:149:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint32_t = uint32_t[m[K’ is deprecated: use std::uint32_t instead of pcl::uint32_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |                                  ([01;35m[Kuint32_t[m[K, t, t)
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:69[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:96:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   96 |   using [01;36m[Kuint32_t[m[K [[deprecated("use std::uint32_t instead of pcl::uint32_t")]] = std::uint32_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:150:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  150 |                                  ([01;35m[Kuint16_t[m[K, reflectivity, reflectivity)
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:69[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:151:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint8_t = uint8_t[m[K’ is deprecated: use std::uint8_t instead of pcl::uint8_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  151 |                                  ([01;35m[Kuint8_t[m[K,  ring, ring)
+      |                                   [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:69[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:92:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   92 |   using [01;36m[Kuint8_t[m[K [[deprecated("use std::uint8_t instead of pcl::uint8_t")]] = std::uint8_t;
+      |         [01;36m[K^~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:153:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint32_t = uint32_t[m[K’ is deprecated: use std::uint32_t instead of pcl::uint32_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  153 |                                  ([01;35m[Kuint32_t[m[K, range, range))
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:69[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:96:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   96 |   using [01;36m[Kuint32_t[m[K [[deprecated("use std::uint32_t instead of pcl::uint32_t")]] = std::uint32_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:149:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint32_t = uint32_t[m[K’ is deprecated: use std::uint32_t instead of pcl::uint32_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  149 |                                  ([01;35m[Kuint32_t[m[K, t, t)
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:96:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   96 |   using [01;36m[Kuint32_t[m[K [[deprecated("use std::uint32_t instead of pcl::uint32_t")]] = std::uint32_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:150:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  150 |                                  ([01;35m[Kuint16_t[m[K, reflectivity, reflectivity)
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:151:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint8_t = uint8_t[m[K’ is deprecated: use std::uint8_t instead of pcl::uint8_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  151 |                                  ([01;35m[Kuint8_t[m[K,  ring, ring)
+      |                                   [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:92:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   92 |   using [01;36m[Kuint8_t[m[K [[deprecated("use std::uint8_t instead of pcl::uint8_t")]] = std::uint8_t;
+      |         [01;36m[K^~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:153:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint32_t = uint32_t[m[K’ is deprecated: use std::uint32_t instead of pcl::uint32_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  153 |                                  ([01;35m[Kuint32_t[m[K, range, range))
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:96:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   96 |   using [01;36m[Kuint32_t[m[K [[deprecated("use std::uint32_t instead of pcl::uint32_t")]] = std::uint32_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:166:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  166 |                                   ([01;35m[Kuint16_t[m[K, ring, ring)
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:69[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:166:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  166 |                                   ([01;35m[Kuint16_t[m[K, ring, ring)
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:181:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  181 |                                  ([01;35m[Kuint16_t[m[K, ring, ring))
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLHeader.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/point_cloud.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:69[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/or.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/iterator/interoperable.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/iterator/iterator_facade.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/filesystem/path.hpp:29[m[K,
+                 from [01m[K/usr/include/boost/filesystem.hpp:16[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/CommonIface.hh:30[m[K,
+                 from [01m[K/usr/include/gazebo-11/gazebo/common/common.hh:12[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:31[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:181:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+  181 |                                  ([01;35m[Kuint16_t[m[K, ring, ring))
+      |                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:42[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:49[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:54[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:[m[K In function ‘[01m[Kstd::vector<std::__cxx11::basic_string<char> > Util::split(std::string, std::string)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:980:34:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kconst size_type[m[K’ {aka ‘[01m[Kconst long unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  980 |         while ([01;35m[K(pos = s.find(d)) != string::npos[m[K)
+      |                [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_servo_model.h:47[m[K,
+                 from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_servo_model.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:[m[K In function ‘[01m[Kstd::vector<std::__cxx11::basic_string<char> > Util::split(std::string, std::string)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/utility.h:980:34:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kconst size_type[m[K’ {aka ‘[01m[Kconst long unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  980 |         while ([01;35m[K(pos = s.find(d)) != string::npos[m[K)
+      |                [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:[m[K In constructor ‘[01m[Kgazebo::PPComNode::PPComNode(const string&, const string&, const double&, const double&, const double&, const double&, const double&, const double&, const double&, const double&, const double&, const double&, const double&, const double&, const double&, const double&)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:157:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::PPComNode::capture_interval[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  157 |     double [01;35m[Kcapture_interval[m[K = 0.1;
+      |            [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:141:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble gazebo::PPComNode::focal_length[m[K’ [[01;35m[K-Wreorder[m[K]
+  141 |     double [01;35m[Kfocal_length[m[K = 0.016; //in meter
+      |            [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:90:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   90 |     [01;35m[KPPComNode[m[K::PPComNode(const string &name_, const string &role_, const double &offset_,
+      |     [01;35m[K^~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:161:12:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::PPComNode::gimbal_yaw_max[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  161 |     double [01;35m[Kgimbal_yaw_max[m[K   = 80.0/180.0*M_PI;
+      |            [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ppcom_plugin.h:159:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble gazebo::PPComNode::gimbal_rate_max[m[K’ [[01;35m[K-Wreorder[m[K]
+  159 |     double [01;35m[Kgimbal_rate_max[m[K  = 45.0/180.0*M_PI;
+      |            [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:90:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   90 |     [01;35m[KPPComNode[m[K::PPComNode(const string &name_, const string &role_, const double &offset_,
+      |     [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:[m[K In member function ‘[01m[Kvirtual void gazebo::GazeboPPComPlugin::Load(gazebo::physics::ModelPtr, sdf::v9::ElementPtr)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:235:31:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<gazebo::PPComNode>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  235 |         for (int idx = 0; [01;35m[Kidx < ppcom_nodes_.size()[m[K; idx++)
+      |                           [01;35m[K~~~~^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:300:34:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::size_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  300 |                 for(int i = 0; [01;35m[Ki < cloud_inpo_->size()[m[K; i++)
+      |                                [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboPPComPlugin::OdomCallback(const OdometryConstPtr&, int)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:357:54:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kstd::deque<nav_msgs::Odometry_<std::allocator<void> > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  357 |         if ([01;35m[Kppcom_nodes_[node_idx].odom_deque.size() > ppcom_nodes_[node_idx].odom_save_size_[m[K)
+      |             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboPPComPlugin::EvaluateCam(gazebo::PPComNode&, ros::Time)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:677:27:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<int>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  677 |         for (int j = 0; [01;35m[Kj < k_idx.size()[m[K; j++) //
+      |                         [01;35m[K~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:700:20:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kvisualized[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  700 |             double [01;35m[Kvisualized[m[K = false;
+      |                    [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:648:16:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kpsi[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  648 |         double [01;35m[Kpsi[m[K   = DEG2RAD(tf_W_B.yaw());
+      |                [01;35m[K^~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboPPComPlugin::TimerCallback(const ros::TimerEvent&, int)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:1025:41:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kstd::deque<Eigen::Matrix<double, 3, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+ 1025 |         if ([01;35m[Knode_i.cam_rpy_deque.size() > node_i.odom_save_size_[m[K)
+      |             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboPPComPlugin::readPCloud(std::string)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ppcom_plugin.cpp:1055:26:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::size_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+ 1055 |         for(int i = 0; [01;35m[Ki < cloud_inpo_->size()[m[K; i++)
+      |                        [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~[m[K
+[ 75%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/libLiftDragPlugin.so[0m
+[ 76%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_multirotor_base_plugin.so[0m
+[ 77%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_magnetometer_plugin.so[0m
+[ 77%] Built target LiftDragPlugin
+[35m[1mScanning dependencies of target rotors_gazebo_fw_dynamics_plugin[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/src/gazebo_fw_dynamics_plugin.cpp.o[0m
+[ 79%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_pressure_plugin.so[0m
+[ 79%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_lidar_plugin.so[0m
+[ 79%] Built target rotors_gazebo_multirotor_base_plugin
+[35m[1mScanning dependencies of target rotors_gazebo_odometry_plugin[0m
+[ 80%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_motor_model.so[0m
+[ 81%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_octomap_plugin.so[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_odometry_plugin.dir/src/gazebo_odometry_plugin.cpp.o[0m
+[ 82%] Built target rotors_gazebo_pressure_plugin
+[ 82%] Built target rotors_gazebo_magnetometer_plugin
+[35m[1mScanning dependencies of target rotors_gazebo_wind_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_controller_interface[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_wind_plugin.dir/src/gazebo_wind_plugin.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o[0m
+[ 84%] Built target rotors_gazebo_lidar_plugin
+[35m[1mScanning dependencies of target gazebo_geotagged_images_plugin[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/gazebo_geotagged_images_plugin.dir/src/external/gazebo_geotagged_images_plugin.cpp.o[0m
+[ 85%] Built target rotors_gazebo_octomap_plugin
+[35m[1mScanning dependencies of target rotors_gazebo_imu_plugin[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_imu_plugin.dir/src/gazebo_imu_plugin.cpp.o[0m
+[ 86%] Built target rotors_gazebo_motor_model
+[35m[1mScanning dependencies of target rotors_gazebo_gps_plugin[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_gps_plugin.dir/src/gazebo_gps_plugin.cpp.o[0m
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_fw_dynamics_plugin.cpp:18[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_fw_dynamics_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboFwDynamicsPlugin::GazeboFwDynamicsPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_fw_dynamics_plugin.h:140:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboFwDynamicsPlugin::throttle_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  140 |   double [01;35m[Kthrottle_[m[K;
+      |          [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_fw_dynamics_plugin.h:82:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboFwDynamicsPlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+   82 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_fw_dynamics_plugin.cpp:24:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   24 | [01;35m[KGazeboFwDynamicsPlugin[m[K::GazeboFwDynamicsPlugin()
+      | [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_wind_plugin.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboWindPlugin::GazeboWindPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:142:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboWindPlugin::use_custom_static_wind_field_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  142 |   bool [01;35m[Kuse_custom_static_wind_field_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:122:15:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::string gazebo::GazeboWindPlugin::frame_id_[m[K’ [[01;35m[K-Wreorder[m[K]
+  122 |   std::string [01;35m[Kframe_id_[m[K;
+      |               [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:69:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   69 |   [01;35m[KGazeboWindPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_wind_plugin.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:195:30:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboWindPlugin::node_handle_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  195 |   gazebo::transport::NodePtr [01;35m[Knode_handle_[m[K;
+      |                              [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_wind_plugin.cpp:22[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:105:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboWindPlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+  105 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:69:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   69 |   [01;35m[KGazeboWindPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_odometry_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboOdometryPlugin::GazeboOdometryPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:143:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboOdometryPlugin::random_generator_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  143 |   std::mt19937 [01;35m[Krandom_generator_[m[K;
+      |                [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:113:15:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kstd::string gazebo::GazeboOdometryPlugin::pose_pub_topic_[m[K’ [[01;35m[K-Wreorder[m[K]
+  113 |   std::string [01;35m[Kpose_pub_topic_[m[K;
+      |               [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:68:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   68 |   [01;35m[KGazeboOdometryPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:138:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboOdometryPlugin::unknown_delay_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  138 |   double [01;35m[Kunknown_delay_[m[K;
+      |          [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:136:7:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kint gazebo::GazeboOdometryPlugin::gazebo_sequence_[m[K’ [[01;35m[K-Wreorder[m[K]
+  136 |   int [01;35m[Kgazebo_sequence_[m[K;
+      |       [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:68:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   68 |   [01;35m[KGazeboOdometryPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:139:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboOdometryPlugin::covariance_image_scale_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  139 |   double [01;35m[Kcovariance_image_scale_[m[K;
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:102:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboOdometryPlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+  102 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:68:3:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   68 |   [01;35m[KGazeboOdometryPlugin[m[K()
+      |   [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_odometry_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboOdometryPlugin::OnUpdate(const gazebo::common::UpdateInfo&)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_odometry_plugin.cpp:426:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kboost::array<double, 36>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  426 |     for (int i = 0; [01;35m[Ki < pose_covariance_matrix_.size()[m[K; i++) {
+      |                     [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_odometry_plugin.cpp:432:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kboost::array<double, 36>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  432 |     for (int i = 0; [01;35m[Ki < twist_covariance_matrix_.size()[m[K; i++) {
+      |                     [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_imu_plugin.cpp:23[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_imu_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboImuPlugin::GazeboImuPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_imu_plugin.h:167:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboImuPlugin::velocity_prev_W_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  167 |   ignition::math::Vector3d [01;35m[Kvelocity_prev_W_[m[K;
+      |                            [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_imu_plugin.h:124:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboImuPlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+  124 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_imu_plugin.cpp:40:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   40 | [01;35m[KGazeboImuPlugin[m[K::GazeboImuPlugin()
+      | [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_imu_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboImuPlugin::OnUpdate(const gazebo::common::UpdateInfo&)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_imu_plugin.cpp:279:10:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kt[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  279 |   double [01;35m[Kt[m[K = current_time.Double();
+      |          [01;35m[K^[m[K
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_gps_plugin.cpp:19[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_gps_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GazeboGpsPlugin::GazeboGpsPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_gps_plugin.h:105:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GazeboGpsPlugin::random_generator_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  105 |   std::mt19937 [01;35m[Krandom_generator_[m[K;
+      |                [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_gps_plugin.h:61:8:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kbool gazebo::GazeboGpsPlugin::pubs_and_subs_created_[m[K’ [[01;35m[K-Wreorder[m[K]
+   61 |   bool [01;35m[Kpubs_and_subs_created_[m[K;
+      |        [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_gps_plugin.cpp:29:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   29 | [01;35m[KGazeboGpsPlugin[m[K::GazeboGpsPlugin()
+      | [01;35m[K^~~~~~~~~~~~~~~[m[K
+[ 89%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_bag_plugin.so[0m
+[ 89%] Built target rotors_gazebo_bag_plugin
+[ 90%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so[0m
+[ 90%] Built target rotors_gazebo_ros_interface_plugin
+In file included from [01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_geotagged_images_plugin.cpp:18[m[K:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/external/gazebo_geotagged_images_plugin.h:[m[K In constructor ‘[01m[Kgazebo::GeotaggedImagesPlugin::GeotaggedImagesPlugin()[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/external/gazebo_geotagged_images_plugin.h:60:44:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::GeotaggedImagesPlugin::depth_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+   60 |   protected: unsigned int width_, height_, [01;35m[Kdepth_[m[K;
+      |                                            [01;35m[K^~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/external/gazebo_geotagged_images_plugin.h:46:16:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kint gazebo::GeotaggedImagesPlugin::imageCounter_[m[K’ [[01;35m[K-Wreorder[m[K]
+   46 |   private: int [01;35m[KimageCounter_[m[K;
+      |                [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_geotagged_images_plugin.cpp:36:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   36 | [01;35m[KGeotaggedImagesPlugin[m[K::GeotaggedImagesPlugin() :
+      | [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[ 91%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_wind_plugin.so[0m
+[ 92%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_controller_interface.so[0m
+[ 93%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so[0m
+[ 93%] Built target rotors_gazebo_controller_interface
+[ 93%] Built target rotors_gazebo_wind_plugin
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_geotagged_images_plugin.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GeotaggedImagesPlugin::OnNewFrame(const unsigned char*)[m[K’:
+[01m[K/home/dronesteam/ws_droneSchool/src/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_geotagged_images_plugin.cpp:174:9:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kint system(const char*)[m[K’, declared with attribute warn_unused_result [[01;35m[K-Wunused-result[m[K]
+  174 |   [01;35m[Ksystem(gps_tag_command)[m[K;
+      |   [01;35m[K~~~~~~^~~~~~~~~~~~~~~~~[m[K
+[ 94%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_gps_plugin.so[0m
+[ 95%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_fw_dynamics_plugin.so[0m
+[ 95%] Built target rotors_gazebo_imu_plugin
+[ 96%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_odometry_plugin.so[0m
+[ 96%] Built target rotors_gazebo_gps_plugin
+[ 96%] Built target rotors_gazebo_fw_dynamics_plugin
+[ 96%] Built target rotors_gazebo_odometry_plugin
+[ 97%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/libgazebo_geotagged_images_plugin.so[0m
+[ 97%] Built target gazebo_geotagged_images_plugin
+[ 98%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_servo_model.so[0m
+[ 98%] Built target rotors_gazebo_servo_model
+[100%] [32m[1mLinking CXX shared library /home/dronesteam/ws_droneSchool/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ppcom_plugin.so[0m
+[100%] Built target rotors_gazebo_ppcom_plugin

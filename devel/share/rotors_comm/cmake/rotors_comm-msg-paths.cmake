@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_comm/share/rotors_comm/cmake/rotors_comm-msg-paths.cmake

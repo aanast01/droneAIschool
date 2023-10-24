@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/rqt_rotors/lib/python3/dist-packages/rqt_rotors/__init__.py

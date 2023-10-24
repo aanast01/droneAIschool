@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/mav_state_machine_msgs/share/roseus/ros/mav_state_machine_msgs/msg/StartStopTask.l

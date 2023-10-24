@@ -1,0 +1,22 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_control/cmake/rotors_controlConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/liblee_position_controller.so
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/rotors_control/lee_position_controller_node
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/rotors_control.pc
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig.cmake, /home/dronesteam/ws_caric/devel/share/rotors_control/cmake/rotors_controlConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/lib/liblee_position_controller.so, /home/dronesteam/ws_caric/devel/lib/liblee_position_controller.so)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/lib/libroll_pitch_yawrate_thrust_controller.so, /home/dronesteam/ws_caric/devel/lib/libroll_pitch_yawrate_thrust_controller.so)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node, /home/dronesteam/ws_caric/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/lib/rotors_control/lee_position_controller_node, /home/dronesteam/ws_caric/devel/lib/rotors_control/lee_position_controller_node)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_control/lib/pkgconfig/rotors_control.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_control.pc)
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_control/cmake/rotors_controlConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/liblee_position_controller.so
+Unlinking: /home/dronesteam/ws_caric/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+Unlinking: /home/dronesteam/ws_caric/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+Unlinking: /home/dronesteam/ws_caric/devel/lib/rotors_control/lee_position_controller_node
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_control.pc

@@ -1,0 +1,8 @@
+prefix=/home/dronesteam/ws_droneSchool/devel/.private/traj_gennav
+
+Name: traj_gennav
+Description: Description of traj_gennav
+Version: 0.0.0
+Cflags: -I/home/dronesteam/ws_droneSchool/devel/.private/traj_gennav/include -I/home/dronesteam/ws_droneSchool/src/traj_gennav/include
+Libs: -L${prefix}/lib 
+Requires: 

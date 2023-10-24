@@ -1,0 +1,181 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/Status.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/manifest.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/Status.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/RateThrust.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/Actuators.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/mav_msgs/msg/TorqueThrust.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/RateThrust.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/Actuators.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/Status.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_msgs/cmake/mav_msgsConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_msgs/cmake/mav_msgsConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/mav_msgs.pc
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_TorqueThrust.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_FilteredSensorData.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_AttitudeThrust.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_GpsWaypoint.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_Actuators.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_Status.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/mav_msgs/msg/_RateThrust.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/GpsWaypoint.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/AttitudeThrust.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/TorqueThrust.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/Actuators.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/FilteredSensorData.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/Status.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/RateThrust.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/mav_msgs/RollPitchYawrateThrust.h
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/Status.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/Status.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/manifest.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/manifest.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/Status.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/Status.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/RateThrust.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/RateThrust.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/Actuators.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/Actuators.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/TorqueThrust.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/TorqueThrust.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/RateThrust.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/RateThrust.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/Actuators.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/Actuators.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/Status.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/Status.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgsConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgsConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake, /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgsConfig.cmake, /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgsConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake, /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/pkgconfig/mav_msgs.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_msgs.pc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_TorqueThrust.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_TorqueThrust.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_FilteredSensorData.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_FilteredSensorData.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_AttitudeThrust.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_AttitudeThrust.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_GpsWaypoint.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_GpsWaypoint.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_Actuators.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_Actuators.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_Status.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_Status.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/lib/python3/dist-packages/mav_msgs/msg/_RateThrust.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_RateThrust.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/GpsWaypoint.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/GpsWaypoint.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/AttitudeThrust.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/AttitudeThrust.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/TorqueThrust.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/TorqueThrust.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/Actuators.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/Actuators.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/FilteredSensorData.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/FilteredSensorData.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/Status.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/Status.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/RateThrust.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/RateThrust.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/mav_msgs/include/mav_msgs/RollPitchYawrateThrust.h, /home/dronesteam/ws_caric/devel/include/mav_msgs/RollPitchYawrateThrust.h)
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/Status.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/manifest.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/Status.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/RateThrust.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/Actuators.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/mav_msgs/msg/TorqueThrust.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/RateThrust.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/Actuators.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/Status.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgsConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgsConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/mav_msgs.pc
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_TorqueThrust.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_FilteredSensorData.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_AttitudeThrust.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_GpsWaypoint.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_Actuators.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_Status.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/mav_msgs/msg/_RateThrust.py
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/GpsWaypoint.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/AttitudeThrust.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/TorqueThrust.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/Actuators.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/FilteredSensorData.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/Status.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/RateThrust.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/mav_msgs/RollPitchYawrateThrust.h

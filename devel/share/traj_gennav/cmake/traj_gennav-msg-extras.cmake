@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/traj_gennav/share/traj_gennav/cmake/traj_gennav-msg-extras.cmake

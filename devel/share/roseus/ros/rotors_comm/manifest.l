@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/rotors_comm/share/roseus/ros/rotors_comm/manifest.l

@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/mav_lowlevel_attitude_controller/lib/python3/dist-packages/mav_lowlevel_attitude_controller/cfg/PIDAttitudeConfig.py

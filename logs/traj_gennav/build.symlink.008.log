@@ -1,0 +1,88 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/traj_gennav/srv/_package_ExecutePath.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/traj_gennav/srv/_package.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/traj_gennav/srv/ReadPathFromFile.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/traj_gennav/srv/traj_gennav-srv.asd
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/traj_gennav/srv/ExecutePath.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/common-lisp/ros/traj_gennav/srv/_package_ReadPathFromFile.lisp
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/traj_gennav/manifest.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/traj_gennav/srv/ExecutePath.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/roseus/ros/traj_gennav/srv/ReadPathFromFile.l
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/traj_gennav/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/traj_gennav/srv/ExecutePath.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/traj_gennav/srv/_index.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/gennodejs/ros/traj_gennav/srv/ReadPathFromFile.js
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/traj_gennav/cmake/traj_gennav-msg-paths.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/traj_gennav/cmake/traj_gennav-msg-extras.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/traj_gennav/cmake/traj_gennavConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/traj_gennav/cmake/traj_gennavConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/traj_gennav.pc
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/traj_gennav/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/traj_gennav/srv/_ReadPathFromFile.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/traj_gennav/srv/__init__.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/python3/dist-packages/traj_gennav/srv/_ExecutePath.py
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/traj_gennav/traj_gennav_node
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/traj_gennav/ReadPathFromFile.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/traj_gennav/ExecutePathRequest.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/traj_gennav/ExecutePathResponse.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/traj_gennav/ReadPathFromFileRequest.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/traj_gennav/ReadPathFromFileResponse.h
+Symlinking /home/dronesteam/ws_droneSchool/devel/include/traj_gennav/ExecutePath.h
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/common-lisp/ros/traj_gennav/srv/_package_ExecutePath.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/_package_ExecutePath.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/common-lisp/ros/traj_gennav/srv/_package.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/_package.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/common-lisp/ros/traj_gennav/srv/ReadPathFromFile.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/ReadPathFromFile.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/common-lisp/ros/traj_gennav/srv/traj_gennav-srv.asd, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/traj_gennav-srv.asd)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/common-lisp/ros/traj_gennav/srv/ExecutePath.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/ExecutePath.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/common-lisp/ros/traj_gennav/srv/_package_ReadPathFromFile.lisp, /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/_package_ReadPathFromFile.lisp)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/roseus/ros/traj_gennav/manifest.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/traj_gennav/manifest.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/roseus/ros/traj_gennav/srv/ExecutePath.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/traj_gennav/srv/ExecutePath.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/roseus/ros/traj_gennav/srv/ReadPathFromFile.l, /home/dronesteam/ws_caric/devel/share/roseus/ros/traj_gennav/srv/ReadPathFromFile.l)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/gennodejs/ros/traj_gennav/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/gennodejs/ros/traj_gennav/srv/ExecutePath.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/srv/ExecutePath.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/gennodejs/ros/traj_gennav/srv/_index.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/srv/_index.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/gennodejs/ros/traj_gennav/srv/ReadPathFromFile.js, /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/srv/ReadPathFromFile.js)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/traj_gennav/cmake/traj_gennav-msg-paths.cmake, /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennav-msg-paths.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/traj_gennav/cmake/traj_gennav-msg-extras.cmake, /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennav-msg-extras.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/traj_gennav/cmake/traj_gennavConfig.cmake, /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennavConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/share/traj_gennav/cmake/traj_gennavConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennavConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/lib/pkgconfig/traj_gennav.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/traj_gennav.pc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/lib/python3/dist-packages/traj_gennav/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/lib/python3/dist-packages/traj_gennav/srv/_ReadPathFromFile.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/srv/_ReadPathFromFile.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/lib/python3/dist-packages/traj_gennav/srv/__init__.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/srv/__init__.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/lib/python3/dist-packages/traj_gennav/srv/_ExecutePath.py, /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/srv/_ExecutePath.py)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/lib/traj_gennav/traj_gennav_node, /home/dronesteam/ws_caric/devel/lib/traj_gennav/traj_gennav_node)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/include/traj_gennav/ReadPathFromFile.h, /home/dronesteam/ws_caric/devel/include/traj_gennav/ReadPathFromFile.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/include/traj_gennav/ExecutePathRequest.h, /home/dronesteam/ws_caric/devel/include/traj_gennav/ExecutePathRequest.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/include/traj_gennav/ExecutePathResponse.h, /home/dronesteam/ws_caric/devel/include/traj_gennav/ExecutePathResponse.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/include/traj_gennav/ReadPathFromFileRequest.h, /home/dronesteam/ws_caric/devel/include/traj_gennav/ReadPathFromFileRequest.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/include/traj_gennav/ReadPathFromFileResponse.h, /home/dronesteam/ws_caric/devel/include/traj_gennav/ReadPathFromFileResponse.h)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/traj_gennav/include/traj_gennav/ExecutePath.h, /home/dronesteam/ws_caric/devel/include/traj_gennav/ExecutePath.h)
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/_package_ExecutePath.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/_package.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/ReadPathFromFile.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/traj_gennav-srv.asd
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/ExecutePath.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/common-lisp/ros/traj_gennav/srv/_package_ReadPathFromFile.lisp
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/traj_gennav/manifest.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/traj_gennav/srv/ExecutePath.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/roseus/ros/traj_gennav/srv/ReadPathFromFile.l
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/srv/ExecutePath.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/srv/_index.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/gennodejs/ros/traj_gennav/srv/ReadPathFromFile.js
+Unlinking: /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennav-msg-paths.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennav-msg-extras.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennavConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/traj_gennav/cmake/traj_gennavConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/traj_gennav.pc
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/srv/_ReadPathFromFile.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/srv/__init__.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/python3/dist-packages/traj_gennav/srv/_ExecutePath.py
+Unlinking: /home/dronesteam/ws_caric/devel/lib/traj_gennav/traj_gennav_node
+Unlinking: /home/dronesteam/ws_caric/devel/include/traj_gennav/ReadPathFromFile.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/traj_gennav/ExecutePathRequest.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/traj_gennav/ExecutePathResponse.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/traj_gennav/ReadPathFromFileRequest.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/traj_gennav/ReadPathFromFileResponse.h
+Unlinking: /home/dronesteam/ws_caric/devel/include/traj_gennav/ExecutePath.h

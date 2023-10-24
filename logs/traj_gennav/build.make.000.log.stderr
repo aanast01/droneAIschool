@@ -1,0 +1,15 @@
+[01m[K/home/dronesteam/ws_caric/src/traj_gennav/src/traj_gennav_node.cpp:[m[K In function ‘[01m[Ktrajectory_msgs::MultiDOFJointTrajectory generateTrajNominal(double, double, int)[m[K’:
+[01m[K/home/dronesteam/ws_caric/src/traj_gennav/src/traj_gennav_node.cpp:654:66:[m[K [01;35m[Kwarning: [m[K‘[01m[KnSeg_wip_[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  654 |           _pos(i) += polyCoeff_(nSeg_wip_, i * 2 * dev_order_ + k[01;35m[K)[m[K * std::pow(_timeinTraj - _timeSum, k);
+      |                                                                  [01;35m[K^[m[K
+[01m[K/home/dronesteam/ws_caric/src/traj_gennav/src/traj_gennav_node.cpp:[m[K In function ‘[01m[Kvoid sampleWholeTrajandVisualize()[m[K’:
+[01m[K/home/dronesteam/ws_caric/src/traj_gennav/src/traj_gennav_node.cpp:654:66:[m[K [01;35m[Kwarning: [m[K‘[01m[KnSeg_wip_[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  654 |           _pos(i) += polyCoeff_(nSeg_wip_, i * 2 * dev_order_ + k[01;35m[K)[m[K * std::pow(_timeinTraj - _timeSum, k);
+      |                                                                  [01;35m[K^[m[K
+[01m[K/home/dronesteam/ws_caric/src/traj_gennav/src/traj_gennav_node.cpp:638:11:[m[K [01;36m[Knote: [m[K‘[01m[KnSeg_wip_[m[K’ was declared here
+  638 |       int [01;36m[KnSeg_wip_[m[K;
+      |           [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/dronesteam/ws_caric/src/traj_gennav/src/traj_gennav_node.cpp:[m[K In function ‘[01m[Ktrajectory_msgs::MultiDOFJointTrajectory generateTrajOnline(double, double, int)[m[K’:
+[01m[K/home/dronesteam/ws_caric/src/traj_gennav/src/traj_gennav_node.cpp:546:66:[m[K [01;35m[Kwarning: [m[K‘[01m[KnSeg_wip_[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  546 |           _pos(i) += polyCoeff_(nSeg_wip_, i * 2 * dev_order_ + k[01;35m[K)[m[K * std::pow(_timeinTraj - _timeSum, k);
+      |                                                                  [01;35m[K^[m[K

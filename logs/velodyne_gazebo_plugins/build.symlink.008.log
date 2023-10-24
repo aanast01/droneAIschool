@@ -1,0 +1,16 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/libgazebo_ros_velodyne_laser.so
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/libgazebo_ros_velodyne_gpu_laser.so
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/velodyne_gazebo_plugins.pc
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_gazebo_plugins/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_gazebo_plugins/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_gazebo_plugins/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig.cmake, /home/dronesteam/ws_caric/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_gazebo_plugins/lib/libgazebo_ros_velodyne_laser.so, /home/dronesteam/ws_caric/devel/lib/libgazebo_ros_velodyne_laser.so)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_gazebo_plugins/lib/libgazebo_ros_velodyne_gpu_laser.so, /home/dronesteam/ws_caric/devel/lib/libgazebo_ros_velodyne_gpu_laser.so)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/velodyne_gazebo_plugins/lib/pkgconfig/velodyne_gazebo_plugins.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/velodyne_gazebo_plugins.pc)
+Unlinking: /home/dronesteam/ws_caric/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/velodyne_gazebo_plugins/cmake/velodyne_gazebo_pluginsConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/libgazebo_ros_velodyne_laser.so
+Unlinking: /home/dronesteam/ws_caric/devel/lib/libgazebo_ros_velodyne_gpu_laser.so
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/velodyne_gazebo_plugins.pc

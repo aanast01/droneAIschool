@@ -1,0 +1,5 @@
+Symlinking /home/dronesteam/ws_caric/devel/share/caric_baseline/cmake/caric_baselineConfig.cmake
+Symlinking /home/dronesteam/ws_caric/devel/share/caric_baseline/cmake/caric_baselineConfig-version.cmake
+Symlinking /home/dronesteam/ws_caric/devel/lib/pkgconfig/caric_baseline.pc
+Symlinking /home/dronesteam/ws_caric/devel/lib/caric_baseline/gcs_task
+Symlinking /home/dronesteam/ws_caric/devel/lib/caric_baseline/baseline_planner

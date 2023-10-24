@@ -1,0 +1,8 @@
+prefix=/home/dronesteam/ws_droneSchool/install
+
+Name: traj_gennav
+Description: Description of traj_gennav
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

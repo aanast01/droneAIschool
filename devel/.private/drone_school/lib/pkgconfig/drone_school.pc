@@ -1,0 +1,8 @@
+prefix=/home/dronesteam/ws_droneSchool/devel/.private/drone_school
+
+Name: drone_school
+Description: Description of drone_school
+Version: 0.0.0
+Cflags: -I/home/dronesteam/ws_droneSchool/devel/.private/drone_school/include -I/home/dronesteam/ws_droneSchool/src/drone_school/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime rospy

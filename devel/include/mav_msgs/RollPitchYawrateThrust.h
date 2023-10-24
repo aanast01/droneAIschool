@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/mav_msgs/include/mav_msgs/RollPitchYawrateThrust.h

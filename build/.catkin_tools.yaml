@@ -1,0 +1,6 @@
+devel_space: /home/dronesteam/ws_droneSchool/devel
+install: false
+install_space: /home/dronesteam/ws_droneSchool/install
+profile: default
+source_space: /home/dronesteam/ws_droneSchool/src
+workspace: /home/dronesteam/ws_droneSchool

@@ -1,0 +1,1 @@
+/home/dronesteam/ws_droneSchool/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/PolygonWithHolesStamped.l

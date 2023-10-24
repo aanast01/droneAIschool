@@ -1,0 +1,16 @@
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig-version.cmake
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/librotors_hil_interface.so
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/pkgconfig/rotors_hil_interface.pc
+Symlinking /home/dronesteam/ws_droneSchool/devel/lib/rotors_hil_interface/rotors_hil_interface_node
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_hil_interface/cmake.lock, /home/dronesteam/ws_caric/devel/./cmake.lock)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_hil_interface/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig.cmake, /home/dronesteam/ws_caric/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_hil_interface/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig-version.cmake, /home/dronesteam/ws_caric/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig-version.cmake)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_hil_interface/lib/librotors_hil_interface.so, /home/dronesteam/ws_caric/devel/lib/librotors_hil_interface.so)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_hil_interface/lib/pkgconfig/rotors_hil_interface.pc, /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_hil_interface.pc)
+Cleaning: (/home/dronesteam/ws_caric/devel/.private/rotors_hil_interface/lib/rotors_hil_interface/rotors_hil_interface_node, /home/dronesteam/ws_caric/devel/lib/rotors_hil_interface/rotors_hil_interface_node)
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/share/rotors_hil_interface/cmake/rotors_hil_interfaceConfig-version.cmake
+Unlinking: /home/dronesteam/ws_caric/devel/lib/librotors_hil_interface.so
+Unlinking: /home/dronesteam/ws_caric/devel/lib/pkgconfig/rotors_hil_interface.pc
+Unlinking: /home/dronesteam/ws_caric/devel/lib/rotors_hil_interface/rotors_hil_interface_node

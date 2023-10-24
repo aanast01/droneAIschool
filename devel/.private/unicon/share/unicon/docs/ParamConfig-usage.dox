@@ -1,0 +1,25 @@
+\subsubsection usage Usage
+\verbatim
+<node name="unicon" pkg="unicon" type="unicon">
+  <param name="CtrlOmega_xy" type="double" value="2.0" />
+  <param name="CtrlOmega_z" type="double" value="2.8" />
+  <param name="CtrlZita_xy" type="double" value="1.0" />
+  <param name="CtrlZita_z" type="double" value="1.0" />
+  <param name="PosErrorAccumulatedLimit_xyz" type="double" value="10.0" />
+  <param name="Pos_ki_xy" type="double" value="0.03" />
+  <param name="Pos_ki_z" type="double" value="0.07" />
+  <param name="k_p_yaw_" type="double" value="2.0" />
+  <param name="k_I_yaw_" type="double" value="0.02" />
+  <param name="yawErrorAccumLim_" type="double" value="1.57" />
+  <param name="mpc_accel_weight_" type="double" value="7.0" />
+  <param name="mpc_vel_weight_" type="double" value="0.0" />
+  <param name="thrust_" type="double" value="89.75" />
+  <param name="max_angle_" type="double" value="15.0" />
+  <param name="max_yaw_rate_" type="double" value="90.0" />
+  <param name="dji_thrust_coefficient" type="double" value="90.0" />
+  <param name="dji_minimum_thrust" type="double" value="5.0" />
+  <param name="dji_maximum_thrust" type="double" value="50.0" />
+  <param name="dji_thrust_offset" type="double" value="1.5" />
+</node>
+\endverbatim
+
